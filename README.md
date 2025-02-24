@@ -5,7 +5,7 @@ A computational Biology model for Drug discovery.
 
 # Overview
 
-This project is part of a multi-part video series on Bioinformatics, where we build and analyze predictive models for drug discovery. In this part, we focus on quickly building and comparing several regression models for predicting the biological activity of butyrylcholinesterase (BChe) inhibitors using the lazypredict library in Python.
+This is a project where we build and analyze predictive models for drug discovery. In this part, we focus on quickly building and comparing several regression models for predicting the biological activity of butyrylcholinesterase (BChe) inhibitors using the lazypredict library in Python.
 
 # Why BChe?
 
